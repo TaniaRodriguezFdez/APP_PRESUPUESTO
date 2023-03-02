@@ -1,0 +1,24 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  background-image: url(./assets/fondoDesktop.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.title {
+  font-family: "Josefin Slab", serif;
+  font-weight: bold;
+  letter-spacing: 3px;
+  color: rgb(255, 255, 255);
+}
+.title-dark{
+  font-family: "Josefin Slab", serif;
+  font-weight: bold;
+  letter-spacing: 3px;
+  color: black;
+}
+.container{
+        background-color: rgba(49, 31, 9, 0.695);
+        padding: 2%;
+}
